@@ -1,4 +1,15 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+For this assignment I was tasked to build a HTML and push it to github pages to go live. I used bootstrap to get the framework set up, adjusted it to fit the criteria asked, then applied some stylying to it so it can fit to every screen and change for different sizes. 
+
+
+
+
+
+
+
+
+
+
+# Web Design - Web Visualization Dashboard (Latitude)
 
 ## Background
 
